@@ -4,7 +4,7 @@ If you want to promote Current or upcoming event, Upcoming movie, book, music, N
 <br>
 <br>
 * developed by Tawhidur Rahman Dear, https://profiles.wordpress.org/tawhidurrahmandear <br>
-* Released Released first on 16 October 2024, under GNU General Public License v2 or later on Github at http://www.gnu.org/licenses/gpl-2.0.html <br>
+* Released first on 16 October 2024, under GNU General Public License v2 or later on Github at http://www.gnu.org/licenses/gpl-2.0.html 
 <br>
 <br>
 ## Installation <br>
