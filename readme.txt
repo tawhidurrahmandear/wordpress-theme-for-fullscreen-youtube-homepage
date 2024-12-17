@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-a WordPress Theme for full-screen YouTube homepage. If you want to promote Current or upcoming event, Upcoming movie, book, music, New Offer in your website homepage through YouTube, then this WordPress Theme is for you. Download Theme from https://github.com/tawhidurrahmandear/youtube-fullscreen-homepage-for-wordpress 
+a WordPress Theme for full-screen YouTube homepage. If you want to promote Current or upcoming event, Upcoming movie, book, music, New Offer in your website homepage through YouTube, then this WordPress Theme is for you. Download Theme from https://github.com/tawhidurrahmandear/youtube  
 
 == Installation ==
 
