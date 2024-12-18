@@ -1,6 +1,8 @@
 # a WordPress Theme for full-screen YouTube homepage
 <br>
-🌐 Autoplay in maximum browsers 🌐 If you want to promote Current or upcoming event, Upcoming movie, book, music, New Offer in your website homepage through YouTube, then this WordPress Theme is for you. 🌐 FSE WordPress Theme
+🌐 Autoplay in maximum browsers <br>
+🌐 FSE WordPress Theme <br>
+🌐 If you want to promote Current or upcoming event, Upcoming movie, book, music, New Offer in your website homepage through YouTube, then this WordPress Theme is for you. 
 <br><br>
 ▶️ developed by Tawhidur Rahman Dear, https://github.com/tawhidurrahmandear <br>
 ▶️ download from https://github.com/tawhidurrahmandear/wordpress-theme-for-fullscreen-youtube-homepage <br>
